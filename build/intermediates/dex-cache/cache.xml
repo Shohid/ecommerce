@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9d03b50c0639acfc0c6b38374e2e37d9550c6ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_2cfbe487bd35cfa99a0e828908ef7b90cd3589af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c2b3b9bc9bcfee3916ffdda9dcf5e2ec16c24f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_84a15329a5d3bab6f53829ecdf465f0afc6083a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6edaf27722029ac49d80d24f4ee42147b444647d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.14.1_0a74133f6d616408d5d13c700ac351ad971ccff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_f98e720772d9b6702e43975acddeb27dc446001f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ad70dd7b98b2951b055342d9b146f39e9693bdab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_875cfacb3f1258b856942b85b082fdbb95a64c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.14.1_2544a85ec4b127947fd4ae5f770d9aeac3307dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_57c58c85a82777dd4c0795bfa32227c38b39a078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e0ac4537d430ffefd3403b8e7543aaca6226e5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.14.1_8cef85c14a0bda5c7a69c8def4be5e3919c6f2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="abd438dcf83a595da978f41342101b620ecbc7b6">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\instant-run_98ac940cbc1cb3ec005c76d430aee7616ef08a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_4c445b8b8685692e7cf42e0f90bd1d0092294186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6331871800940d404b2c9643bfa4dac0cb973a6e">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_77b5da798d4c8d73dafe53aa0c4d6c7b27366acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.14.1_930a6eca39feaf7c2f86691538d780a33d1452b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_239f48d4b6be6afaf535931b36fe0ea93d26407f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.14.1_48fa705da1a04aa55975290d6551b5f92aad96b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d3b13b2650a921c41f0c8ebf0150910a5ab311eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_adf3e283262b17aeec5a67fd02c95e240348d10d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_aba556026e551d2929908ba972c63ae37b63c473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_52e2283b5b92f34e8f8d4eb3b768f32245a81416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9e1a7f9fb0ee0fd3470e5cd403eb9b354a30c2b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\EcomSample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_af8829640c6468da17c850a269187ae574605540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\android\EcomSample\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_24d7b0e098f9da1f1f4b71b5cf2a20f921edd7c2.jar" />
+    </item>
+
+</items>
